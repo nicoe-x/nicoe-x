@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="十二 / Nicoe：把脑海里的东西，一点点做出来。" />
+  <img src="./assets/header-typing.svg" width="100%" alt="十二 / Nicoe：把脑海里的东西，一点点做出来。" />
 </p>
 
 <p align="center">
